@@ -56,3 +56,8 @@ redistribute them and/or modify them under the terms of the GNU
 General Public License as published by the Free Software Foundation
 version 3 with the additional attribution requirements. See
 ``LICENSE`` file at the root of the source directory for details.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/ggcarrots/django-carrots
+   :target: https://gitter.im/ggcarrots/django-carrots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
